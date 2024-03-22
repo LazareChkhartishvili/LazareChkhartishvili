@@ -1,5 +1,4 @@
-
-
+<p align="center"><img src="https://assets.mubicdn.net/images/artworks/537433/images-original.png?1682351632" height="300"/></p>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
