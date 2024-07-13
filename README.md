@@ -96,9 +96,14 @@
 
 </details>
 
-<p align="center"> 
+<p align=""> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/LazareChkhartishvili/count.svg" />
+</p>
+
+<p align=""> 
+  My Old Github Link
+  <a href="https://github.com/lazzzare">Here</a>
 </p>
 
 <!-- <p align="center">
