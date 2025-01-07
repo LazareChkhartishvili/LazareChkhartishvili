@@ -3,7 +3,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-<h4>Welcome to my profile! </br> I'm Lazare, Junior Fullstack developer from <img src="https://github.com/LazareChkhartishvili/LazareChkhartishvili/assets/164561286/09d3310c-ad7d-4339-9a97-666fe0b413f6" width="13"/> <b>Rustavi, Georgia</b>, </h4>
+<h4>Welcome to my profile! </br> I'm Lazare, Junior React / React-Native developer from <img src="https://github.com/LazareChkhartishvili/LazareChkhartishvili/assets/164561286/09d3310c-ad7d-4339-9a97-666fe0b413f6" width="13"/> <b>Rustavi, Georgia</b>, </h4>
 
 
 <p> 
