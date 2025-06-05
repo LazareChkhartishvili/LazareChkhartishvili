@@ -11,7 +11,7 @@
   <img align="right" height="250" width="375" alt="Coding" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
   <h3>Welcome to my profile!</h3>
-  <p>I'm Lazare, Junior React/React Native developer from <img src="https://github.com/LazareChkhartishvili/LazareChkhartishvili/assets/164561286/09d3310c-ad7d-4339-9a97-666fe0b413f6" width="13"/> <b>Rustavi, Georgia</b></p>
+  <p>I'm Lazare, Junior React/React Native developer from <img src="https://github.com/LazareChkhartishvili/LazareChkhartishvili/assets/164561286/09d3310c-ad7d-4339-9a97-666fe0b413f6" width="13"/> <b>Tbilisi, Georgia</b></p>
   
   <p>
     <a href="https://github.com/lazzzare">
@@ -76,15 +76,16 @@
     <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=LazareChkhartishvili&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   </a>
   
-  <!-- Top Languages -->
+  <!-- Top Languages 
   <a href="https://github.com/LazareChkhartishvili">
     <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LazareChkhartishvili&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
   </a>
-  
-  <!-- Activity Graph -->
+  -->
+  <!-- Activity Graph
   <a href="https://github.com/LazareChkhartishvili">
     <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=LazareChkhartishvili&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
+   -->
 </div>
 
 <br>
