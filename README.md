@@ -60,25 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <a href="https://github.com/LazareChkhartishvili">
-    <img title="🔥 Current streak" alt="Lazare's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=LazareChkhartishvili&theme=monokai-metallian&hide_border=true"/>
-  </a>
-
-  <a href="https://github.com/LazareChkhartishvili">
-    <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=LazareChkhartishvili&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <h3>Visitors Count</h3>
-  <img src="https://profile-counter.glitch.me/LazareChkhartishvili/count.svg" />
-</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
