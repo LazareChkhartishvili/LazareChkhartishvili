@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/bJJ3L3H4/90355b5c-54d5-4672-a0ec-78e6d95283ad.png" height="350" alt="Coding in the forest at night"/>
+  <img src="https://i.imgur.com/hzO0WE6.gif" height="350" alt="Coding in the forest at night"/>
 </p>
 
 
